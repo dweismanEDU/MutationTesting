@@ -1,7 +1,7 @@
 import re
 
 # Read the original source code
-with open('polynomial.py', 'r') as file:
+with open('Polynomial.py', 'r') as file:
     original_code = file.read()
 
 # Define a list of mutation functions
